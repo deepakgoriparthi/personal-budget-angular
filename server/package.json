@@ -6,19 +6,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/charan6234/personal-budget.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/charan6234/personal-budget.git"
-  },
-  "homepage": "https://github.com/charan6234/personal-budget.git",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.21.0"
-  }
+  "license": "ISC"
 }
